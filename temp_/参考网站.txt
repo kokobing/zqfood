@@ -1,0 +1,26 @@
+http://www.gpsbeta.com/index.php
+
+模仿网站：http://www.ahcof.com/home.asp
+
+首页 公司概况 我们的业务 新闻中心 人力资源 联系我们
+
+没有论坛
+
+
+
+
+
+
+ftp地址 61.147.98.224 
+zqfood
+密码 07582222186 
+
+http://mysql.carbest.cc/
+mysql数据库 zqfood
+账号 root 密码 898ACC25EE88FF
+
+zqfood
+
+
+http://mysql.carbest.cc/
+root 898ACC25EE88FF

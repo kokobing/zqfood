@@ -1,0 +1,1 @@
+18----../../upload/news/----|jpg|jpeg|pdf|rar|doc----/admin/news/ajax_upfileindata.php
